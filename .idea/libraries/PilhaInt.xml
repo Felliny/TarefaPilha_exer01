@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="PilhaInt">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../PilhaInt/out/artifacts/PilhaInt_jar/PilhaInt.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

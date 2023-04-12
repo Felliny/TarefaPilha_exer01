@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="PilhaString">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../PilhaString/out/artifacts/PilhaString_jar/PilhaString.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
